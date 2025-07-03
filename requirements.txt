@@ -5,7 +5,7 @@ langchain-core
 langchain-google-genai
 huggingface-hub
 python-dotenv
-faiss
+faiss-cpu
 transformers
 torch
 sentence-transformers
