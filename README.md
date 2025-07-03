@@ -4,7 +4,7 @@ Questor is an interactive AI tutor that uses Retrieval Augmented Generation (RAG
 
 
 ## 🚀 Live Demo
-👉 [Add your Streamlit link here after deploy]
+👉 [CLICK TO OPEN](https://questor-pnudjs4hojerhptxvthbyw.streamlit.app/)
 
 Built with:
 - Streamlit for the interactive interface
