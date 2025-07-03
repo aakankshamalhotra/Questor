@@ -80,6 +80,22 @@ def get_qa_chain():
 
 st.set_page_config(page_title="Questor Bot", page_icon="🤖")
 st.title("🤖💡 Hi, I'm Questor. Your Personal AI Tutor with Gemini + RAG")
+st.info(
+    """
+    **📄 What is Questor?**
+
+    Questor is trained on **one PDF** —  
+    `Database-Design-2nd-Edition-1660153697.pdf` which covers *[detailed knowledge of Database Modelling and Design]*.
+
+    ✅ **Try asking questions like:**
+    - What is the main idea of this PDF?
+    - Summarize the key points.
+    - Explain important details in simple words.
+    - Who is the author or audience?
+
+    Feel free to explore — ask your own questions too!
+    """
+)
 
 # Initialize messages in session state
 if "messages" not in st.session_state:
