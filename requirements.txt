@@ -6,3 +6,6 @@ langchain-google-genai
 huggingface-hub
 python-dotenv
 faiss-cpu
+transformers
+torch
+python-dotenv
