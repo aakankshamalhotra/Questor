@@ -21,4 +21,4 @@ Built with:
    ```bash
    pip install -r requirements.txt
 3. Add your .env file with API keys
-4. RUN: streamlit run streamlit_app.py
+4. RUN: streamlit run streamlit_app.py  
