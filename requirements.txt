@@ -1,12 +1,13 @@
-streamlit
-langchain
-langchain-community
-langchain-core
-langchain-google-genai
-huggingface-hub
-python-dotenv
-faiss-cpu
-transformers
-torch
-sentence-transformers
+streamlit==1.35.0
+langchain==0.0.316
+langchain-community==0.0.32
+langchain-core==0.1.34
+langchain-google-genai==0.0.8
+huggingface-hub==0.20.3
+python-dotenv==1.0.1
+faiss-cpu==1.7.4
+transformers==4.36.2
+torch==2.0.1
+sentence-transformers==2.2.2
+
 
